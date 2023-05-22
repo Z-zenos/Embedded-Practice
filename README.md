@@ -9,3 +9,7 @@
 - Turn on / off led by button
 
 ![button led](./images/button_led.png)
+
+- Check temperature using analog sensor and lcd
+
+![temp sensor](./images/temp_sensor_lcd.png)
