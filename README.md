@@ -13,3 +13,7 @@
 - Check temperature using analog sensor and lcd
 
 ![temp sensor](./images/temp_sensor_lcd.png)
+
+- Traffic light
+
+![traffic light](./images/traffic_light.png)
