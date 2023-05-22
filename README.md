@@ -17,3 +17,7 @@
 - Traffic light
 
 ![traffic light](./images/traffic_light.png)
+
+- Light sensor
+
+![light sensor](./images/light_sensor.png)
